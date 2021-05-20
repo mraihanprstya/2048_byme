@@ -2,8 +2,8 @@
 play it with class name g2048
 
 function:
--turun()
--naik()
--kanan()
--kiri()
--undo()
+- turun()
+- naik()
+- kanan()
+- kiri()
+- undo()
